@@ -1,3 +1,2 @@
-uttam jaiswal<br>
-ceated by uttam jaiswal
+created by uttam jaiswal
 
